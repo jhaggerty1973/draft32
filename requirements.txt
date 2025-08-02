@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+snscrape
+vaderSentiment
+yfinance
+feedparser
+scikit-learn
